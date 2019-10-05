@@ -4,6 +4,7 @@
   "description": "Personal tslint configuration",
   "keywords": ["tslint", "tenpi"],
   "author": "Tenpi",
+  "main": "tslint.js",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/Tenpi/TSLint"
