@@ -1,8 +1,12 @@
 {
   "name": "@tenpi/tslint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal tslint configuration",
   "keywords": ["tslint", "tenpi"],
   "author": "Tenpi",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Tenpi/TSLint"
+  },
   "license": "MIT"
 }
