@@ -10,6 +10,7 @@ module.exports = {
         "no-this-assignment": false,
         "ban-comma-operator": false,
         "no-implicit-dependencies": [true, "dev"],
+        "prefer-conditional-expression": false,
         "no-object-literal-type-assertion": false,
         "no-console": false,
         "no-shadowed-variable": false,
