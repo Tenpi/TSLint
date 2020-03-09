@@ -36,6 +36,7 @@ module.exports = {
         "no-reference": true,
         "prefer-const": true,
         "no-string-throw": true,
+        "no-string-literal": false,
         "no-return-await": true,
         "member-ordering": false,
         "only-arrow-functions": false,
