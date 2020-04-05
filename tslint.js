@@ -56,6 +56,7 @@ module.exports = {
         "switch-default": true,
         "deprecation": true,
         "prefer-readonly": true,
+        "max-classes-per-file": false,
         "one-line": [
             true,
             "check-catch",
