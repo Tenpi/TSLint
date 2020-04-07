@@ -4,6 +4,7 @@ module.exports = {
         "tslint-eslint-rules",
         "tslint:latest"
     ],
+    "jsRules": true,
     "rules": {
         "quotemark": [true, "double"],
         "jsx-no-lambda": false,

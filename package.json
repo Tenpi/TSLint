@@ -1,6 +1,6 @@
 {
   "name": "@tenpi/tslint",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Personal tslint configuration",
   "keywords": [
     "tslint",
