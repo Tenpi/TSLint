@@ -15,7 +15,7 @@ module.exports = {
         "no-object-literal-type-assertion": false,
         "no-console": false,
         "no-shadowed-variable": false,
-        "no-any": true,
+        "no-any": false,
         "no-var-requires": false,
         "default-case": true,
         "interface-over-type-literal": false,
@@ -86,7 +86,9 @@ module.exports = {
             "check-separator",
             "check-preblock",
             "check-typecast"
-        ]
+        ],
+        "variable-name": false,
+        "no-submodule-imports": false
     },
     "rulesDirectory": []
 }
